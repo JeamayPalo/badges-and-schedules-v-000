@@ -10,3 +10,5 @@ def batch_badge_creator(attendees)
   end
   empty_array
 end
+
+def conference_badges
