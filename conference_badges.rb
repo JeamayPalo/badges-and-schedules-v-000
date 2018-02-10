@@ -17,4 +17,5 @@ def assign_rooms(attendees)
   empty_array <<  "Hello, #{attendees}! You'll be assigned to #{index}"
       index += 1
   end
+  empty_array
 end
