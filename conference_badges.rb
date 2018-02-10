@@ -13,8 +13,8 @@ end
 
 def assign_rooms(attendees)
   empty_array = []
-	attendees.each_with_index do |room_assignments, index|
-  empty_array <<  "Hello, #{attendees}! You'll be assigned to #{index}"
+	attendees.each_with_index do |attendee, index|
+  empty_array <<  "Hello, #{attendee}! You'll be assigned to #{index}"
       index += 1
   end
   empty_array
