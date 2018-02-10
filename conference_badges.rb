@@ -14,4 +14,4 @@ end
 def assign_rooms(attendees)
   attendees.collect do |badges|
   end
-end 
+end
