@@ -11,4 +11,4 @@ def batch_badge_creator(attendees)
   empty_array
 end
 
-def conference_badges
+def assign_rooms
