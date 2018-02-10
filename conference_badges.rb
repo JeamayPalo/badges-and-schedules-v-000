@@ -6,3 +6,4 @@ end
 def batch_badge_creator(name)
   badge each.do |name|
 end
+end
